@@ -1,5 +1,5 @@
 const disableSetup = false;
-var topBarCenterText = `VA3HDL - FN04ga`;
+var topBarCenterText = `SV1JDY - KM18VA`;
 
 // Grid layout
 var layout_cols = 4;
